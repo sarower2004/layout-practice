@@ -1,0 +1,72 @@
+.main_wrapper {
+    height: 650px;
+    width: 100%;
+    background-color: rgb(153, 212, 248);
+}
+.main {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+
+header {
+    height: 100px;
+    width: 100%;
+    background-color: blue;
+}
+.content {
+    height: 75%;
+    width: 100%;
+    background-color: gray;
+    display: flex;
+}
+aside {
+    height: 100%;
+    width: 25%;
+    background-color: greenyellow;
+}
+
+article {
+    height: 100%;
+    width: 75%;
+    background-color: tomato;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+footer{
+    height: 10%;
+    width: 100%;
+    background-color: rgb(31, 85, 4);
+}
+
+.one {
+    height: 80%;
+    width: 100%;
+    background-color: yellowgreen;
+}
+.two{
+    height: 20%;
+    width: 100%;
+    background-color: blueviolet;
+}
+.article_one {
+    height: 50%;
+    width: 50%;
+    background-color: navajowhite;
+}
+.article_two {
+    height: 50%;
+    width: 50%;
+    background-color: rgb(222, 142, 21);
+}
+.article_three {
+    height: 50%;
+    width: 50%;
+    background-color: rgb(148, 65, 54);
+}
+.article_four {
+    height: 50%;
+    width: 50%;
+    background-color: rgb(55, 205, 238);
+}
